@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// 1단계 - 초간단 계산기 구현
+
 public class Main{
     int add(int a, int b){
         return a + b;
